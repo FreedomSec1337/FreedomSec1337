@@ -66,7 +66,5 @@ func S3BucketRCE() {
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/yourhandle)  
 
-**🔒 PGP Key:** `0xABCDEF12345` *(for secure comms)*  
-
 ---
 

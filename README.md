@@ -37,8 +37,7 @@
 # Daily Driver OS
 $ sudo apt install hollywood -y # Type sudo when already root💀
 ```
-![Terminal GIF](https://github.com/YourUsername/YourUsername/blob/main/assets/terminal.gif?raw=true)  
-*(Example: [Kali Linux neofetch](https://giphy.com/search/terminal))*
+![Terminal GIF](https://user-images.githubusercontent.com/24496417/48981315-01e02580-f0d4-11e8-83ab-f5c1893d681a.gif)
 
 ---
 

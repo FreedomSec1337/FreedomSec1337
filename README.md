@@ -1,5 +1,5 @@
 
-# 🚀 ./Freedom Security 
+# 🦅 ./Freedom Security ☭
 ### **Zero-Day Researcher | Cyber Offensive Specialist**  
 `Co-Founder @ IZS Group` | `PhD in Cybersecurity` | `Certified Red Teamer (CRTO/CBBH)`  
 

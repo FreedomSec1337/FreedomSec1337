@@ -16,7 +16,7 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-*(Add more badges for PHP/Java/Ruby [here](https://shields.io/))*
+
 
 ### **☁️ Cloud & Infra**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
@@ -35,7 +35,7 @@
 ## **💻 My Hacking Setup**  
 ```bash
 # Daily Driver OS
-$ neofetch --os kali linux --theme hacker
+$ sudo apt install hollywood -y # Type sudo when already root💀
 ```
 ![Terminal GIF](https://github.com/YourUsername/YourUsername/blob/main/assets/terminal.gif?raw=true)  
 *(Example: [Kali Linux neofetch](https://giphy.com/search/terminal))*

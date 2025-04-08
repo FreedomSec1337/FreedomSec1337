@@ -25,7 +25,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### **⭐ Certifications**  
-
+| Badge | Certification |
 |-------|--------------|
 | ![CEH](https://img.shields.io/badge/CEH-Certified-blue) | **Certified Ethical Hacker** |
 | ![CRTO](https://img.shields.io/badge/CRTO-Expert-red) | **Certified Red Team Operator** |

@@ -50,7 +50,7 @@ def exploit_cve_2023_1234():
 ```
 [![View Repo](https://img.shields.io/badge/VIEW_REPO-black?style=for-the-badge&logo=github)](https://github.com/yourrepo)  
 
-### **2. Cloud Attack Simulator**  
+### **2. Cloud Attack **  
 ![AWS](https://img.shields.io/badge/-AWS-orange) ![GCP](https://img.shields.io/badge/-Google_Cloud-blue)  
 ```go
 func S3BucketRCE() {
@@ -77,26 +77,3 @@ func S3BucketRCE() {
 
 ---
 
-> *"The best way to predict the future is to create it." — Alan Kay*  
-``` 
-
----
-
-### 🛠️ **How to Customize Further**:
-1. **GIFs**:  
-   - Replace `banner.gif` with a [cyber-themed GIF](https://giphy.com/search/hacker).  
-   - Use [ScreenToGif](https://www.screentogif.com/) to record your own terminal sessions.  
-
-2. **Badges**:  
-   - Generate custom badges at [shields.io](https://shields.io/).  
-
-3. **Snake Animation**:  
-   - The `contribution-snake.svg` auto-updates—just keep committing!  
-
-4. **Metrics**:  
-   - Use [metrics.lecoq.io](https://metrics.lecoq.io/) for real-time stats.  
-
-5. **PGP Key**:  
-   - Add a real PGP key for security credibility.  
-
-Let me know if you want a **dark-mode-only** version or **interactive buttons**! 🎨

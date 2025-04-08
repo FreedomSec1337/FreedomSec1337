@@ -41,7 +41,7 @@ $ sudo apt install hollywood -y # Type sudo when already root💀
 
 ---
 
-## **📜 Latest **  
+## **📜 Latest 𝘒𝘦𝘨𝘢𝘣𝘶𝘵𝘢𝘯**
 ### **1. ZeroDay PoC Toolkit**  
 ![Python](https://img.shields.io/badge/-Python-yellow?logo=python) ![ExploitDB](https://img.shields.io/badge/-ExploitDB-red)  
 ```python
@@ -49,7 +49,7 @@ def exploit_cve_2023_1234():
     print("PoC for ACME Corp RCE - Unpatched!")
 ```
 
-### **2. Cloud Attack **  
+### **2. Cloud Attack**  
 ![AWS](https://img.shields.io/badge/-AWS-orange) ![GCP](https://img.shields.io/badge/-Google_Cloud-blue)  
 ```go
 func S3BucketRCE() {

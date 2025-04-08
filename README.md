@@ -5,7 +5,7 @@
 `Co-Founder @ IZS Group` | `PhD in Cybersecurity` | `Certified Red Teamer (CRTO/CBBH)`  
 
 ![Banner](./j.jpg)
-*(Customize with a [hacker-themed GIF](https://giphy.com/search/cyber-security))*
+
 
 ---
 
@@ -24,8 +24,8 @@
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### **🔐 Certifications**  
-| Badge | Certification |
+### **⭐ Certifications**  
+
 |-------|--------------|
 | ![CEH](https://img.shields.io/badge/CEH-Certified-blue) | **Certified Ethical Hacker** |
 | ![CRTO](https://img.shields.io/badge/CRTO-Expert-red) | **Certified Red Team Operator** |

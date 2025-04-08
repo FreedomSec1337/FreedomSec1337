@@ -68,4 +68,6 @@ func S3BucketRCE() {
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/yourhandle)  
 
 ---
-
+## **Big Thanks to all member Kirov Elite Group**
+`Sanitize Dark Star` | `Russian Cyber Ford` | `Indonesian Zero Security `
+![n](./m.jpg)

@@ -1,3 +1,4 @@
+![Gif](./text.gif)
 
 # 🦅 ./Freedom Security ☭
 ### **Zero-Day Researcher | Cyber Offensive Specialist**  

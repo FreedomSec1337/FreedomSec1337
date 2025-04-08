@@ -3,7 +3,7 @@
 ### **Zero-Day Researcher | Cyber Offensive Specialist**  
 `Co-Founder @ IZS Group` | `PhD in Cybersecurity` | `Certified Red Teamer (CRTO/CBBH)`  
 
-![Banner](https://github.com/YourUsername/YourUsername/blob/main/assets/banner.gif?raw=true)  
+![Banner](./j.jpg)
 *(Customize with a [hacker-themed GIF](https://giphy.com/search/cyber-security))*
 
 ---

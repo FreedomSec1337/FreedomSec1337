@@ -41,14 +41,13 @@ $ sudo apt install hollywood -y # Type sudo when already root💀
 
 ---
 
-## **📜 Latest Projects**  
-### **1. Zero-Day PoC Toolkit**  
+## **📜 Latest **  
+### **1. ZeroDay PoC Toolkit**  
 ![Python](https://img.shields.io/badge/-Python-yellow?logo=python) ![ExploitDB](https://img.shields.io/badge/-ExploitDB-red)  
 ```python
 def exploit_cve_2023_1234():
     print("PoC for ACME Corp RCE - Unpatched!")
 ```
-[![View Repo](https://img.shields.io/badge/VIEW_REPO-black?style=for-the-badge&logo=github)](https://github.com/yourrepo)  
 
 ### **2. Cloud Attack **  
 ![AWS](https://img.shields.io/badge/-AWS-orange) ![GCP](https://img.shields.io/badge/-Google_Cloud-blue)  
@@ -57,12 +56,8 @@ func S3BucketRCE() {
   fmt.Println("AWS Misconfig Scanner")
 }
 ```
-[![Watch Demo](https://img.shields.io/badge/WATCH_DEMO-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/yourdemo)  
-
 ---
 
-## **📊 GitHub Analytics**  
-![Metrics](https://metrics.lecoq.io/YourUsername?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FJakarta)  
 
 ![Snake Animation](https://github.com/YourUsername/YourUsername/blob/output/github-contribution-grid-snake.svg)  
 
